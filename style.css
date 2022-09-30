@@ -92,7 +92,7 @@ nav>ul>li:hover .dropdown2{
     color: white;
 }
 #body1{
-    background-image: url(/images/nurhadi-cahyono-3-gjm36-dYg-unsplash__01__01.jpg);
+    background-image: url("nurhadi-cahyono-3-gjm36-dYg-unsplash__01__01.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
